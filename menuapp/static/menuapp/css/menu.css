@@ -1,0 +1,3 @@
+.btn-toggle[aria-expanded="true"] img {
+    transform: rotate(90deg);
+}
